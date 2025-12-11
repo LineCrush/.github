@@ -44,7 +44,7 @@ Building something in the sports betting space? Have questions? Reach out.
 
 <div align="center">
 
-**LineCrush Inc.** — Toronto, Canada
+**LineCrush Inc.** — Fresno, California
 
 *Crush the line. Beat the book.*
 
