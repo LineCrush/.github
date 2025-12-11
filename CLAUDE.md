@@ -131,11 +131,12 @@ Never use generic terms like "basketball" or "football" — always the league ac
 
 ---
 
-## Team
+## Founders
 
-- **Founder:** Austin Spraggins
-- **Email:** [spragginsdesigns@gmail.com](mailto:spragginsdesigns@gmail.com)
-- **Twitter:** [@spragginsdesign](https://twitter.com/spragginsdesign)
+| Name | GitHub | Email |
+|------|--------|-------|
+| Austin Spraggins | [@spragginsdesigns](https://github.com/spragginsdesigns) | [spragginsdesigns@gmail.com](mailto:spragginsdesigns@gmail.com) |
+| Jay Raynor | [@beepimajeep88](https://github.com/beepimajeep88) | [jayraynor1988@gmail.com](mailto:jayraynor1988@gmail.com) |
 
 ---
 
