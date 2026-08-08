@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Product, account, or billing support
+    url: https://www.linecrush.com/contact
+    about: Contact LineCrush for product bugs, account help, billing questions, partnerships, or detailed feedback.
+  - name: LineCrush Discord
+    url: https://discord.gg/j5zG6ZZ6NQ
+    about: Join the community for product discussion and general help.
+  - name: Private security report
+    url: https://github.com/LineCrush/.github/security/policy
+    about: Report suspected vulnerabilities privately. Never open a public issue for a security concern.
