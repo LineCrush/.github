@@ -1,0 +1,37 @@
+name: Public documentation problem
+description: Report inaccurate public information, a broken link, or an accessibility problem in a LineCrush repository.
+title: "[Docs]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form only for public repository documentation. Product, account, billing, and security concerns use the private routes listed on the issue chooser.
+  - type: checkboxes
+    id: routing
+    attributes:
+      label: Correct route
+      options:
+        - label: This report is about public repository documentation, not the LineCrush product or my account.
+          required: true
+        - label: This report does not contain a vulnerability, secret, credential, payment detail, or private user data.
+          required: true
+  - type: input
+    id: location
+    attributes:
+      label: Page or file
+      description: Link to the public page or file that needs attention.
+      placeholder: https://github.com/LineCrush/...
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is inaccurate or broken?
+      description: Explain what you observed and why it needs to change.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Suggested correction
+      description: Share the corrected wording, destination, or accessibility behavior if you know it.

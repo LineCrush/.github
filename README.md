@@ -9,6 +9,7 @@ This repository powers the public [LineCrush GitHub organization profile](https:
 - [`SUPPORT.md`](SUPPORT.md): product, account, billing, and community support routes
 - [`CONTRIBUTING.md`](CONTRIBUTING.md): how to suggest improvements to these public files
 - [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md): community participation standards
+- [`.github/ISSUE_TEMPLATE`](.github/ISSUE_TEMPLATE): organization-wide issue routing for public documentation, product support, and private security reports
 
 The LineCrush product code is currently private. For the product, start at [linecrush.com](https://www.linecrush.com). For feedback or collaboration, use the [contact page](https://www.linecrush.com/contact) or join the [LineCrush Discord](https://discord.gg/j5zG6ZZ6NQ).
 
