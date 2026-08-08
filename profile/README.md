@@ -1,51 +1,66 @@
 <div align="center">
 
-<img src="https://contextproai-storage.s3.us-east-1.amazonaws.com/Logo/LineCrush_Simple_Logo.png" alt="LineCrush Logo" width="120" />
+<img src="https://contextproai-storage.s3.us-east-1.amazonaws.com/Logo/LineCrush_Wordmark_HiRes.png" alt="LineCrush" width="420" />
 
-# LineCrush
+# We're making every sports betting tool free
 
-### AI-Powered Sports Betting Intelligence
+**And adding Vibes to each one.**
 
-**Smarter picks. Better odds. Crushing lines.**
+LineCrush is a free-first sports betting research platform built to turn a scattered research process into one clear workflow. Explore the slate, study the context, compare available odds, build your card, and check the full graded record.
 
-[![Website](https://img.shields.io/badge/Website-linecrush.com-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://linecrush.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@LineCrush-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/linecrush)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LineCrush-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/linecrush)
+[![Open LineCrush](https://img.shields.io/badge/Open_LineCrush-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.linecrush.com)
+[![See the Record](https://img.shields.io/badge/See_the_Record-18181B?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.linecrush.com/record)
+[![Join Discord](https://img.shields.io/badge/Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/j5zG6ZZ6NQ)
 
----
+<sub>Free tools first. Premium versions add more depth and access.</sub>
 
 </div>
 
-## What We Do
+## One platform, the full research workflow
 
-LineCrush combines **advanced AI models** with **real-time sports data** to deliver actionable betting intelligence. We analyze thousands of data points across multiple sportsbooks to surface the picks that matter.
+| Product | What it does |
+| --- | --- |
+| [**Picks**](https://www.linecrush.com/picks) | Swipe through AI-assisted research cards with confidence scores, matchup context, supporting stats, and available odds. |
+| [**Sonar**](https://www.linecrush.com/sonar) | Search expert quotes, podcast clips, and public posts for any supported player or matchup. |
+| [**Games**](https://www.linecrush.com/games) | See today's slate with public matchup reports, lineups, injuries, and betting context. |
+| [**LineCrushBot**](https://www.linecrush.com/linecrushbot) | Analyze a sportsbook betslip, ask about a player prop, or run a fantasy draft autopsy on the web and in Discord. |
+| [**Record**](https://www.linecrush.com/record) | Review graded wins, losses, pushes, units, and ROI across published pick tiers. Losses stay visible. |
+| [**Free Games**](https://www.linecrush.com/free) | Play free-to-enter sports games and draft tools, including the current NFL freeroll. |
 
-- **Multi-Book Analysis** — Compare odds across major sportsbooks instantly
-- **AI-Generated Picks** — Data-driven recommendations backed by rigorous analysis
-- **Real-Time Updates** — Lines move fast; we keep you ahead
-- **Performance Tracking** — Transparent results you can verify
+## What "Vibes" means here
 
-## Our Stack
+Vibes bring the context around a bet into the same place as the numbers: matchup data, injuries, weather, interviews, podcasts, public commentary, and market prices. LineCrush surfaces the research and the counter-signal so you can make the call.
 
-We build with modern, battle-tested technologies:
+It is a research tool, not an oracle. That is why [every published pick is graded](https://www.linecrush.com/record) and the full record includes the losses.
 
-`Next.js` `TypeScript` `PostgreSQL` `Python` `Redis` `AWS`
+## Built across three clients
 
-## Connect With Us
+LineCrush is one product across mobile web, native iOS, and native Android. The private production stack spans Next.js and TypeScript, Python and PostgreSQL data systems, Redis, Swift, and Jetpack Compose.
 
-Building something in the sports betting space? Have questions? Reach out.
+The product is built by a two-person founding team pairing high-stakes DFS and sports betting experience with senior full-stack engineering. [Meet Jay and Austin](https://www.linecrush.com/about-us).
 
-- **Website:** [linecrush.com](https://linecrush.com)
-- **Twitter/X:** [@LineCrush](https://x.com/linecrush) • [@LineCrushBot](https://x.com/linecrushbot)
+## Connect with LineCrush
+
+- **Product:** [linecrush.com](https://www.linecrush.com)
+- **Community:** [Discord](https://discord.gg/j5zG6ZZ6NQ)
+- **X:** [@Line_Crush](https://x.com/Line_Crush) | [@LineCrushBot](https://x.com/LineCrushBot)
 - **LinkedIn:** [LineCrush](https://www.linkedin.com/company/linecrush)
-- **Email:** [hello@linecrush.com](mailto:hello@linecrush.com)
+- **Facebook:** [LineCrush](https://www.facebook.com/TryLineCrush/)
+- **Support and partnerships:** [Contact LineCrush](https://www.linecrush.com/contact)
+- **Security:** [Read our disclosure policy](https://github.com/LineCrush/.github/security/policy)
+
+## About this GitHub organization
+
+Most LineCrush product code is private while we build. This organization hosts our public profile and shared community health files today. Public tools, SDKs, and integrations will appear here when they are ready to be maintained in the open.
+
+Product feedback and collaboration ideas are welcome through [Discord](https://discord.gg/j5zG6ZZ6NQ) or the [contact page](https://www.linecrush.com/contact). Please report security concerns privately through the [security policy](https://github.com/LineCrush/.github/security/policy), never in a public issue.
 
 ---
 
 <div align="center">
 
-**LineCrush Inc.** — Fresno, California
+**LineCrush Inc.** | Fresno, California
 
-*Crush the line. Beat the book.*
+21+ only. Play responsibly. Gambling problem? Call or text **1-800-GAMBLER**.
 
 </div>
